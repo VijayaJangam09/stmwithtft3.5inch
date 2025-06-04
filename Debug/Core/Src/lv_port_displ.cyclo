@@ -1,0 +1,2 @@
+../Core/Src/lv_port_displ.c:25:6:lv_port_displ_init	1
+../Core/Src/lv_port_displ.c:44:6:my_disp_flush	1

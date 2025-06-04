@@ -1,0 +1,8 @@
+C:/STM32CubeIDE/workspace_1.17.0/stmwithtft3.5inch/Drivers/lvgl/src/hal/../draw/../misc/lv_color.h:593:26:lv_color_hex	24	static
+C:/STM32CubeIDE/workspace_1.17.0/stmwithtft3.5inch/Drivers/lvgl/src/core/lv_disp.h:182:26:lv_scr_act	8	static
+../Core/Src/main.c:70:5:main	24	static
+../Core/Src/main.c:128:6:SystemClock_Config	96	static
+../Core/Src/main.c:179:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:217:13:MX_DMA_Init	16	static
+../Core/Src/main.c:235:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:292:6:Error_Handler	4	static,ignoring_inline_asm
